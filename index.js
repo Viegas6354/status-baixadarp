@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Baixada Santista Roleplay","Since 2024"];
+const statusMessages = ["Baixada Paulista Roleplay","Since 2024"];
 
 
 let currentIndex = 0;
